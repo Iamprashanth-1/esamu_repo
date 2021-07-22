@@ -12,7 +12,7 @@ Requiremts to run this project
   -> After successful installation just run the command 
 
      command : uvicorn main:app --reload
-  -> The server starts listening on port 800 goto http://127.0.0.1:8000/ you can see not found message 
+  -> The server starts listening on port 8000 goto http://127.0.0.1:8000/ you can see not found message 
 
   -> goto http://127.0.0.1:8000/docs you could see FastAPI response click on Tryout insert the json data boom you could see the response below
   
